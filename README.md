@@ -1,1 +1,1 @@
-# duco1
+# miner
